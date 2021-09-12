@@ -1,6 +1,22 @@
 .
 
-# Python
+# [Python](https://www.kaggle.com/learn/python)
 
 
-> ## This is our first repository
+
+>  ### Learn the most important language for data science.
+
+
+.
+
+
+## This is our first repository for our first course in `Kaggle` 
+
+=================================================================
+
+
+
+
+
+
+.
